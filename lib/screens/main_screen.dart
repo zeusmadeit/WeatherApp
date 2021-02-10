@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:simple_weather/constants.dart';
-import 'package:simple_weather/utils/weather.dart';
+import 'package:WeatherApp/constants.dart';
+import 'package:WeatherApp/utils/weather.dart';
 
 class MainScreen extends StatefulWidget {
   MainScreen({@required this.weatherData});

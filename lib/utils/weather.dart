@@ -2,9 +2,9 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
-import 'package:simple_weather/constants.dart';
-import 'package:simple_weather/credentials.dart';
-import 'package:simple_weather/utils/location.dart';
+import 'package:WeatherApp/constants.dart';
+import 'package:WeatherApp/credentials.dart';
+import 'package:WeatherApp/utils/location.dart';
 
 class WeatherDisplayData {
   Icon weatherIcon;
